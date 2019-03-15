@@ -1,0 +1,187 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Oxygen;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+  min-width: 1920px;
+  max-width: 1920px;
+}
+
+.element {
+  float: left;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element .text:hover {
+  text-decoration: underline;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  font-size: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+.element ._button {
+  width: 231px;
+  min-width: 231px;
+  max-width: 231px;
+  height: 28px;
+  min-height: 28px;
+  max-height: 28px;
+  margin-left: 8.6175599999%;
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(152, 35, 35);
+}
+
+.element ._button:hover {
+  text-decoration: underline;
+  color: rgb(226, 67, 67);
+}
+
+.container-1 {
+  width: 1200px;
+  height: 71px;
+  max-height: 1080px;
+  background-color: #443131;
+}
+
+.container-2 {
+  clear: both;
+  width: 1920px;
+  height: 25px;
+  min-height: 25px;
+  max-height: 25px;
+  margin: 964px 0 0 -6px;
+  background-color: #000000;
+}
+
+.element-1 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  width: 185px;
+  min-width: 185px;
+  max-width: 185px;
+  height: 671px;
+  min-height: 671px;
+  max-height: 671px;
+  margin-left: 6px;
+}
+
+.element-2 {
+  width: 361px;
+  min-width: 361px;
+  max-width: 361px;
+  height: 135px;
+  min-height: 135px;
+  max-height: 135px;
+  margin-left: 3.69629%;
+}
+
+.image-1 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 78px;
+  min-width: 78px;
+  max-width: 78px;
+  margin-top: -4px;
+}
+
+.image-2 {
+  float: right;
+  width: 74px;
+  min-width: 74px;
+  max-width: 74px;
+  margin: -1px 0.07406% 0 0;
+}
+
+.text-1 {
+  width: 192px;
+  min-width: 192px;
+  max-width: 192px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: 28px 0 0 2.90541%;
+  color: rgb(182, 24, 24);
+}
+
+.text-1:hover {
+  color: rgb(154, 34, 34);
+}
+
+.text-2 {
+  clear: both;
+  width: 47.965116279%;
+  min-height: 17px;
+  margin: 6px 0 0 3.47973%;
+  font-family: Helvetica;
+  color: rgb(152, 45, 45);
+}
+
+.text-2:hover {
+  color: rgb(202, 37, 37);
+}
+
+.text-3 {
+  width: 552px;
+  min-width: 552px;
+  max-width: 552px;
+  height: 25px;
+  min-height: 25px;
+  max-height: 25px;
+  margin-left: 45.70313%;
+  font-weight: 300;
+  line-height: 1.5;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  width: 460px;
+  min-width: 460px;
+  max-width: 460px;
+  height: 48px;
+  min-height: 48px;
+  max-height: 48px;
+  margin: 8px 0 0 650px;
+  border-radius: 5px;
+  background-color: #443131;
+  font-size: 3em;
+  font-weight: 700;
+  line-height: -1;
+  color: #ffffff;
+}
+
+.element ._button-2 {
+  margin-top: 21px;
+}
+
+.element ._button-3 {
+  clear: both;
+}
+
+.element ._button-4 {
+  clear: both;
+  margin-top: 1px;
+}

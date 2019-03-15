@@ -1,0 +1,278 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Oxygen;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+}
+
+.container .element {
+  z-index: 8;
+  width: 1076px;
+  min-width: 1076px;
+  max-width: 1076px;
+  height: 44px;
+  min-height: 44px;
+  max-height: 44px;
+  margin: -172px 0 0 390px;
+  border-radius: 10px;
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  background-color: rgb(222, 222, 222);
+}
+
+.element .text {
+  float: left;
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text-4 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 460px;
+  height: 48px;
+  margin: 8px 0 0 650px;
+  border-radius: 5px;
+  background-color: #443131;
+  font-size: 3em;
+  font-weight: 700;
+  line-height: -1;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container-1 {
+  width: 1200px;
+  min-width: 1920px;
+  max-width: 1920px;
+  height: 71px;
+  max-height: 1080px;
+  background-color: #443131;
+}
+
+.container-2 {
+  width: 100%;
+  height: 25px;
+  margin-top: 1695px;
+  background-color: #000000;
+}
+
+.element-2 {
+  z-index: 16;
+  width: 188px;
+  min-width: 188px;
+  max-width: 188px;
+  height: 671px;
+  min-height: 671px;
+  max-height: 671px;
+  margin: 56px 0 0 4px;
+}
+
+.image-1 {
+  float: left;
+  width: 78px;
+  margin-top: -4px;
+}
+
+.image-2 {
+  float: right;
+  width: 74px;
+  margin: -1px 0.07406% 0 0;
+}
+
+.image-3 {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 9;
+  width: 276px;
+  min-width: 276px;
+  max-width: 276px;
+  margin: -475px 80px 0 0;
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 351px;
+  min-width: 351px;
+  max-width: 351px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: 56px 0 0 283px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 {
+  float: left;
+  width: 552px;
+  min-width: 552px;
+  max-width: 552px;
+  height: 25px;
+  min-height: 25px;
+  max-height: 25px;
+  margin-left: 45.70313%;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 391px;
+  min-width: 391px;
+  max-width: 391px;
+  height: 45px;
+  min-height: 45px;
+  max-height: 45px;
+  margin: -61px 0 0 291px;
+  font-size: 1.875em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 145px;
+  min-width: 145px;
+  max-width: 145px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -22px 0 0 291px;
+  font-size: 1em;
+  color: rgb(140, 44, 44);
+}
+
+.text-3:hover {
+  text-decoration: underline;
+  color: rgb(191, 42, 42);
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  z-index: 6;
+  width: 1230px;
+  min-width: 1230px;
+  max-width: 1230px;
+  height: 475px;
+  min-height: 475px;
+  max-height: 475px;
+  margin: 16px 0 0 291px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  position: relative;
+  float: right;
+  z-index: 10;
+  width: 276px;
+  min-width: 276px;
+  max-width: 276px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: 291px 82px 0 0;
+  border: 1px double rgb(0, 0, 0);
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  width: 1076px;
+  min-width: 1076px;
+  max-width: 1076px;
+  height: 32px;
+  min-height: 32px;
+  max-height: 32px;
+  margin-top: 6px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  width: 192px;
+  min-width: 192px;
+  max-width: 192px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: 28px 0 0 2.9006%;
+  color: rgb(182, 24, 24);
+}
+
+.text-7:hover {
+  text-decoration: underline;
+  color: rgb(154, 34, 34);
+}
+
+.text-8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 165px;
+  min-width: 165px;
+  max-width: 165px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -600px 0 0 27px;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(160, 56, 56);
+}
+
+.text-8:hover {
+  text-decoration: underline;
+  color: rgb(222, 51, 51);
+}
+
+.text-9 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 130px;
+  min-width: 130px;
+  max-width: 130px;
+  height: 23px;
+  min-height: 23px;
+  max-height: 23px;
+  margin: -414px 0 0 291px;
+  font-size: 1em;
+  color: rgb(179, 24, 24);
+}
+
+.text-9:hover {
+  text-decoration: underline;
+  color: rgb(211, 56, 56);
+}
