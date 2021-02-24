@@ -1,0 +1,259 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Oxygen;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 14;
+  width: 182px;
+  min-width: 182px;
+  max-width: 182px;
+  height: 671px;
+  min-height: 671px;
+  max-height: 671px;
+  margin: 54px 0 0 10px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element .text {
+  width: 192px;
+  min-width: 192px;
+  max-width: 192px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: 28px 0 0 2.90179%;
+  font-size: 1em;
+  color: rgb(182, 24, 24);
+}
+
+.element .text:hover {
+  text-decoration: underline;
+  color: rgb(154, 34, 34);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+}
+
+.text-2 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 460px;
+  height: 48px;
+  margin: 8px 0 0 650px;
+  border-radius: 5px;
+  background-color: #443131;
+  font-size: 3em;
+  font-weight: 700;
+  line-height: -1;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container-1 {
+  width: 1200px;
+  min-width: 1920px;
+  max-width: 1920px;
+  height: 71px;
+  max-height: 1080px;
+  background-color: #443131;
+}
+
+.container-2 {
+  width: 100%;
+  height: 25px;
+  margin-top: 2116px;
+  background-color: #000000;
+}
+
+.image-1 {
+  float: left;
+  width: 78px;
+  margin-top: -4px;
+}
+
+.image-2 {
+  float: right;
+  width: 74px;
+  margin: -1px 0.07406% 0 0;
+}
+
+.text-1 {
+  clear: both;
+  width: 391px;
+  min-width: 391px;
+  max-width: 391px;
+  height: 45px;
+  min-height: 45px;
+  max-height: 45px;
+  margin: 32px 0 0 322px;
+  font-size: 1.875em;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 {
+  width: 552px;
+  min-width: 552px;
+  max-width: 552px;
+  height: 25px;
+  min-height: 25px;
+  max-height: 25px;
+  margin-left: 45.70313%;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 3;
+  width: 1358px;
+  min-width: 1358px;
+  max-width: 1358px;
+  height: 1182px;
+  min-height: 1182px;
+  max-height: 1182px;
+  margin: 13px 0 0 322px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 8;
+  width: 136px;
+  min-width: 136px;
+  max-width: 136px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -985px 0 0 340px;
+  font-size: 1em;
+  color: rgb(169, 35, 35);
+}
+
+.text-3:hover {
+  text-decoration: underline;
+  color: rgb(221, 44, 44);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 5;
+  width: 131px;
+  min-width: 131px;
+  max-width: 131px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -828px 0 0 339px;
+  font-size: 1em;
+  color: rgb(160, 51, 51);
+}
+
+.text-4:hover {
+  text-decoration: underline;
+  color: rgb(206, 46, 46);
+}
+
+.text-5 {
+  position: relative;
+  z-index: 6;
+  width: 103px;
+  min-width: 103px;
+  max-width: 103px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -647px 0 0 339px;
+  font-size: 1em;
+  color: rgb(157, 41, 41);
+}
+
+.text-5:hover {
+  text-decoration: underline;
+  color: rgb(203, 48, 48);
+}
+
+.text-6 {
+  position: relative;
+  z-index: 9;
+  width: 101px;
+  min-width: 101px;
+  max-width: 101px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -490px 0 0 338px;
+  font-size: 1em;
+  color: rgb(149, 46, 46);
+}
+
+.text-6:hover {
+  text-decoration: underline;
+  color: rgb(217, 57, 57);
+}
+
+.text-7 {
+  position: relative;
+  z-index: 7;
+  width: 158px;
+  min-width: 158px;
+  max-width: 158px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -45px 0 0 696px;
+  font-size: 1em;
+  color: rgb(168, 46, 46);
+}
+
+.text-7:hover {
+  text-decoration: underline;
+  color: rgb(198, 45, 45);
+}
+
+.text-9 {
+  position: relative;
+  clear: both;
+  z-index: 15;
+  width: 165px;
+  min-width: 165px;
+  max-width: 165px;
+  height: 22px;
+  min-height: 22px;
+  max-height: 22px;
+  margin: -614px 0 0 27px;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(160, 56, 56);
+}
+
+.text-9:hover {
+  text-decoration: underline;
+  color: rgb(222, 51, 51);
+}
